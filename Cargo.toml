@@ -17,3 +17,6 @@ strip = true
 [[bin]]
 name = "imgmv"
 path = "src/main.rs"
+
+[package.metadata.cross.build]
+xargo = false
