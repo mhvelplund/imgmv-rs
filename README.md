@@ -1,5 +1,7 @@
 # README
 
+Rust fork of <https://github.com/mhvelplund/image-move/>.
+
 Build for Linux:
 
 ```shell
